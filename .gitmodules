@@ -1,0 +1,3 @@
+[submodule "lsfg-vk-android"]
+	path = lsfg-vk-android
+	url = https://github.com/FrankBarretta/lsfg-vk-android.git
