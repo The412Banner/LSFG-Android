@@ -1,0 +1,4 @@
+analyze/
+.gradle*/
+CLAUDE.md
+.claude/
