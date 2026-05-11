@@ -1,4 +1,6 @@
 # LSFG-Android — frame generation on Android via the lsfg-vk pipeline
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/n8S4G2WZQ4)
+
 
 LSFG-Android brings the [`lsfg-vk`](https://github.com/PancakeTAS/lsfg-vk)
 Vulkan frame-generation pipeline to Android. Because Android 12+ blocks
@@ -165,3 +167,8 @@ any other commercial app store, and may not be used commercially.
 
 `Lossless.dll` is the property of THS / Lossless Scaling and is **not**
 distributed by this project under any circumstances.
+
+
+## Community
+
+Join our Discord: https://discord.gg/n8S4G2WZQ4
